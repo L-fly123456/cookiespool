@@ -9,8 +9,8 @@ from selenium.webdriver import ActionChains
 import time
 from weibo.crack import Crack
 
-EMAIL = "18192416361"
-PASSWORD = "a1335108246"
+EMAIL = "1819241****"
+PASSWORD = "a133510****"
 BORDER = 5
 
 class CrackGeetest(Crack):
