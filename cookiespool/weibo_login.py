@@ -11,8 +11,8 @@ from weibo.chaojiying import Chaojiying_Client
 from selenium.common.exceptions import TimeoutException
 from weibo.crack import Crack
 
-EMAIL='18192416361'
-PASSWORD='a1335108246'
+EMAIL='1819241****'
+PASSWORD='a133510****'
 # 超级鹰用户名，密码，软件id,验证码类型
 CHAOJIYING_USERNAME='1819241****'
 CHAOJIYING_PASSWORD='a133510****'
